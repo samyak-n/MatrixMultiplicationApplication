@@ -1,8 +1,4 @@
 # Matrix Multiplication Software
-## Team Members
-- [Member 1]
-- [Member 2]
-## Implementation Details
 - Language: Python
 ## Instructions
 To perform a single matrix multiplication operation, follow these steps:
